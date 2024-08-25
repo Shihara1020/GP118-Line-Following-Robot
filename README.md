@@ -1,6 +1,7 @@
 # Line Folowing Robot
 - Robot  powered by Ardunio Uno,capable of doing followeing the line.
 - This developed for the semster 2 project under GP113:Line following competition.
+  
 ![alt](https://github.com/Shihara1020/Line-Following-Robot/blob/537f323ba30f93bacf7b6318c60320570a9745c3/IMG_7238.jpg)
 ## Competition Summary
 Rounds Participated: 2
