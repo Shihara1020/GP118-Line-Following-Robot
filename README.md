@@ -17,8 +17,8 @@ Rounds Participated: 2
 
  ## Task
  - Robot capable of autonomously navigating a path marked by a line. The robot was required to demstrate precise line tracking,handle various turns and intersections ,maintain consistent speed and stability across different environment conditions ,including changes in ligting surface texture.
- ## path
- 
+ ## Final Round path
+ ![image alt](https://github.com/Shihara1020/Line-Following-Robot/blob/551a77c9249a26b081e3d34d6e91ed3d4e8da4c6/Our%20task.JPG)
  ## Hardware Specifications
  - Arduino Uno board
  - Motor shield
