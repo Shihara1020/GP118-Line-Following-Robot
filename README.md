@@ -16,11 +16,13 @@ Rounds Participated: 2
 - Precise line following
 - Auto calibration
 
- ## Task
+## Task
  - Robot capable of autonomously navigating a path marked by a line. The robot was required to demstrate precise line tracking,handle various turns and intersections ,maintain consistent speed and stability across different environment conditions ,including changes in ligting surface texture.
- ## Final Round path
+   
+## Final Round path
  ![image alt](https://github.com/Shihara1020/Line-Following-Robot/blob/551a77c9249a26b081e3d34d6e91ed3d4e8da4c6/Our%20task.JPG)
- ## Hardware Specifications
+ 
+## Hardware Specifications
  - Arduino Uno board
  - Motor shield
  - IR sensor array
@@ -29,7 +31,8 @@ Rounds Participated: 2
  - Boost Converter
  -Battery
  -Wheels
-
- ## Our team
+## video
+![](Uploading Caliberation.mp4…)
+## Our team
  ![alt](https://github.com/Shihara1020/Line-Following-Robot/blob/48879d29048b4ececbe85681fb82d8a0b64cac1e/Our%20Team.JPG)
  
