@@ -30,4 +30,5 @@ Rounds Participated: 2
  -Wheels
 
  ## Our team
+ ![alt](https://github.com/Shihara1020/Line-Following-Robot/blob/48879d29048b4ececbe85681fb82d8a0b64cac1e/Our%20Team.JPG)
  
